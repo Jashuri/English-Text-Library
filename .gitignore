@@ -1,0 +1,24 @@
+# Secrets and local environment
+.env
+.env.*
+*.key
+*.pem
+*.p12
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.zip
+
+# Python/cache artifacts
+__pycache__/
+*.pyc
+
