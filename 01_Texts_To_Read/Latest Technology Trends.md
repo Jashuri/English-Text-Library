@@ -25,16 +25,29 @@ and spending less time waiting for YouTube videos to load. From 3G onwards, each
 bandwidths expanded, 3G enabled online access and data-driven services on mobile 
 devices; 4G enabled the increase of streaming video and music platforms; and 5G, 
 likewise, would expand what is possible. 5G refers to networks that use cutting-edge 
-technology, including augmented reality and virtual reality. They also threaten to 
-render cable and fiber-based networks obsolete by requiring us to be tethered to a 
-specific location. In a nutshell, 5G and other advanced, high-speed networks allow all 
+technology, including augmented reality and virtual reality. They also threaten to render cable and fiber-based networks obsolete by no longer requiring us to be tethered to a specific location. In a nutshell, 5G and other advanced, high-speed networks allow all 
 of the other trends we’ve discussed to be accessed anywhere, at any time. Complex 
 machine learning applications that require real-time access to Big Data sources can be 
 automated and run in the field.
 
+Швидший і стабільніший інтернет означає не лише швидше завантаження вебсторінок і менше часу очікування на завантаження відео з YouTube. Починаючи з 3G, кожен наступний етап розвитку мобільного зв’язку відкривав нові способи використання інтернету. У міру збільшення пропускної здатності 3G забезпечив доступ до інтернету й сервісів, що працюють на основі даних, на мобільних пристроях; 4G сприяв розвитку платформ для потокового відео та музики; а 5G так само розширить межі можливого. 5G означає мережі, у яких використовуються передові технології, зокрема доповнена та віртуальна реальність. Вони також можуть зробити кабельні й оптоволоконні мережі застарілими, оскільки нам більше не потрібно буде бути прив’язаними до певного місця. Якщо коротко, 5G та інші сучасні високошвидкісні мережі забезпечують доступ до всіх інших технологічних тенденцій, які ми обговорювали, будь-де й будь-коли. Складні застосунки машинного навчання, яким потрібен доступ до джерел великих даних у режимі реального часу, можна автоматизувати та використовувати безпосередньо на місці.
+
 ### Passage C - Edge Computing
 
-Paste passage C here.
+<audio controls src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-c__edge-computing.mp3"></audio>
+
+It is a new technology that ensures low latency and high-speed data 
+processing. Edge computing allows computations to be carried out closer to data 
+storage systems, improving application performance. Cloud platforms’ high bandwidth 
+costs can act as a motivator for edge computing adoption. The technology aims to run 
+fewer processes in the cloud and transfer them to places like the user’s computer or an 
+edge server. Bridging the gap between data and computation eliminates long-distance 
+communication between the server and the client, resulting in increased process 
+speed. Therefore, edge computing used to handle time-sensitive data stored in remote 
+areas with minimal access to the central location. Cloud computing and IoT 
+applications would benefit from the technology.
+
+Це нова технологія, яка забезпечує низьку затримку та високошвидкісну обробку даних. Периферійні обчислення дають змогу виконувати обчислення ближче до систем зберігання даних, покращуючи продуктивність застосунків. Висока вартість використання пропускної здатності хмарних платформ може сприяти впровадженню периферійних обчислень. Ця технологія має на меті виконувати менше процесів у хмарі та переносити їх на такі пристрої, як комп’ютер користувача або периферійний сервер. Скорочення розриву між даними та обчисленнями усуває необхідність передавання інформації на великі відстані між сервером і клієнтом, що сприяє підвищенню швидкості процесів. Отже, периферійні обчислення використовуються для опрацювання чутливих до часу даних, які зберігаються у віддалених районах з обмеженим доступом до центральної системи. Хмарні обчислення та застосунки Інтернету речей можуть отримати користь від цієї технології.
 
 ### Passage D - Internet Of Behaviors
 
