@@ -1,5 +1,9 @@
 # Metaverse – Interconnected and Interactive
 
+## Audio
+
+<audio controls src="../11_Audio_Listening/01_Full_Text_Audio/2026-10-01__metaverse-interconnected-and-interactive__full.mp3"></audio>
+
 Remember when you’d play your favorite games with your friends and talk and have a wonderful 
 time? Imagine doing all of that while playing a video game you all love, without having to physically be in one place. Metaverse creates a virtual, 3-dimensional game environment that allows players to chat, interact with one another, socialize, and connect with a community they can resonate with. One of the hottest game design trends, metaverse, with its interconnected and interactive experiences, blurs the lines between real-life conversations, social media, and gaming. It simulates a game environment that imitates reality in its functions, but incorporates fantastical elements that give the games an “intrigue factor”. With the growing popularity of metaverse and games like Roblox and Fortnite making their way into the Indian market, the segment is expected to diversify and expand in the coming years. From more realistic graphics and avatars to sophisticated, AI-driven interactions – as the metaverse continues to be an emerging area – there are endless possibilities to explore.
 
