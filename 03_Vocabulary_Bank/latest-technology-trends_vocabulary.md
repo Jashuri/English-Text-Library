@@ -42,4 +42,22 @@
 | surge | a sudden and large increase | /sɝːdʒ/ | різке зростання, сплеск | <audio controls src="../11_Audio_Listening/06_Word_Audio/surge.mp3"></audio> |
 | skilled | having the abilities needed to do an activity or job well | /skɪld/ | кваліфікований, умілий | <audio controls src="../11_Audio_Listening/06_Word_Audio/skilled.mp3"></audio> |
 | workforce | all the people who work for a company, industry, or country | /ˈwɝːk.fɔːrs/ | робоча сила, працівники | <audio controls src="../11_Audio_Listening/06_Word_Audio/workforce.mp3"></audio> |
-
+| stable | not likely to change, fail, or move | /ˈsteɪ.bəl/ | стабільний, надійний | <audio controls src="../11_Audio_Listening/06_Word_Audio/stable.mp3"></audio> |
+| webpage | a page of information on the internet | /ˈweb.peɪdʒ/ | вебсторінка | <audio controls src="../11_Audio_Listening/06_Word_Audio/webpage.mp3"></audio> |
+| advancement | the development or improvement of something | /ədˈvæns.mənt/ | розвиток, прогрес, досягнення | <audio controls src="../11_Audio_Listening/06_Word_Audio/advancement.mp3"></audio> |
+| connectivity | the ability of a device, system, or place to connect to the internet or other systems | /ˌkɑː.nekˈtɪv.ə.t̬i/ | зв'язок, можливість підключення | <audio controls src="../11_Audio_Listening/06_Word_Audio/connectivity.mp3"></audio> |
+| expand | to increase in size, number, or importance | /ɪkˈspænd/ | розширюватися, збільшуватися | <audio controls src="../11_Audio_Listening/06_Word_Audio/expand.mp3"></audio> |
+| enable | to make something possible | /ɪˈneɪ.bəl/ | уможливлювати, надавати можливість | <audio controls src="../11_Audio_Listening/06_Word_Audio/enable.mp3"></audio> |
+| access | the right or ability to use or enter something | /ˈæk.ses/ | доступ | <audio controls src="../11_Audio_Listening/06_Word_Audio/access.mp3"></audio> |
+| data-driven | based on or controlled by data | /ˈdeɪ.t̬ə ˌdrɪv.ən/ | заснований на даних | <audio controls src="../11_Audio_Listening/06_Word_Audio/data-driven.mp3"></audio> |
+| streaming | playing video or audio directly from the internet without downloading it first | /ˈstriː.mɪŋ/ | потокове передавання | <audio controls src="../11_Audio_Listening/06_Word_Audio/streaming.mp3"></audio> |
+| cutting-edge | very modern and advanced | /ˌkʌt̬.ɪŋˈedʒ/ | передовий, найсучасніший | <audio controls src="../11_Audio_Listening/06_Word_Audio/cutting-edge.mp3"></audio> |
+| augmented | made greater, larger, or more complete | /ɑːɡˈmen.t̬ɪd/ | доповнений | <audio controls src="../11_Audio_Listening/06_Word_Audio/augmented.mp3"></audio> |
+| threaten | to be likely to cause harm or problems | /ˈθret.ən/ | загрожувати | <audio controls src="../11_Audio_Listening/06_Word_Audio/threaten.mp3"></audio> |
+| render | to cause someone or something to be in a particular state | /ˈren.dɚ/ | робити, перетворювати на | <audio controls src="../11_Audio_Listening/06_Word_Audio/render.mp3"></audio> |
+| fiber-based | using fiber-optic technology | /ˈfaɪ.bɚ beɪst/ | оптоволоконний | <audio controls src="../11_Audio_Listening/06_Word_Audio/fiber-based.mp3"></audio> |
+| obsolete | no longer useful because something newer exists | /ˌɑːb.səˈliːt/ | застарілий | <audio controls src="../11_Audio_Listening/06_Word_Audio/obsolete.mp3"></audio> |
+| tethered | tied or limited to a particular place | /ˈteð.ɚd/ | прив'язаний, обмежений певним місцем | <audio controls src="../11_Audio_Listening/06_Word_Audio/tethered.mp3"></audio> |
+| advanced | modern and highly developed | /ədˈvænst/ | передовий, сучасний | <audio controls src="../11_Audio_Listening/06_Word_Audio/advanced.mp3"></audio> |
+| automated | done by machines or computers without human control | /ˈɑː.t̬ə.meɪ.t̬ɪd/ | автоматизований | <audio controls src="../11_Audio_Listening/06_Word_Audio/automated.mp3"></audio> |
+| field | a real situation or place where practical work is done | /fiːld/ | місце практичного застосування, реальні умови | <audio controls src="../11_Audio_Listening/06_Word_Audio/field.mp3"></audio> |
