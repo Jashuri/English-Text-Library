@@ -64,6 +64,8 @@ Edge computing означає, що частина обробки даних в�
 
 ### Passage D - Internet Of Behaviors
 
+<audio controls src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-d__internet-of-behaviors.mp3"></audio>
+
 If you’ve heard of the Internet of Things (IoT), you should know that the IoT  
 extends to the Internet of behavior as well. The Internet of Things (IoT) is concerned  
 with using data and insights to influence behavior. IoT devices are possible as massive  
