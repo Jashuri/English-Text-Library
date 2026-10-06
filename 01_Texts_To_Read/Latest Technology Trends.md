@@ -1,14 +1,10 @@
 # Latest Technology Trends
 
-## Audio 
-
-<!-- Add full-text audio here later. -->
-
- ## Reading Passages
-
-> Source text should be pasted here from the exercise handout.
+## Reading Passages
 
 ### Passage A - Artificial Intelligence
+
+![Illustration for Artificial Intelligence](images/passage-a.png)
 
 <audio controls="" src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-a__artificial-intelligence.mp3">
 </audio>
@@ -19,6 +15,8 @@ It has made a lot of hype over the last decade. Still, it remains one of the lea
 
 ### Passage B - 5G And Enhanced Connectivity
 
+![Illustration for 5G And Enhanced Connectivity](images/passage-b.png)
+
 <audio controls="" src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-b__5g-and-enhanced-connectivity.mp3">
 </audio>
 
@@ -27,6 +25,8 @@ Faster and more stable internet means more than only loading webpages faster and
 Швидший і стабільніший інтернет означає не лише швидше завантаження вебсторінок і менше часу очікування на завантаження відео з YouTube. Починаючи з 3G, кожен наступний етап розвитку мобільного зв'язку відкривав нові способи використання інтернету. У міру збільшення пропускної здатності 3G забезпечив доступ до інтернету й сервісів, що працюють на основі даних, на мобільних пристроях; 4G сприяв розвитку платформ для потокового відео та музики; а 5G так само розширить межі можливого. 5G означає мережі, у яких використовуються передові технології, зокрема доповнена та віртуальна реальність. Вони також можуть зробити кабельні й оптоволоконні мережі застарілими, оскільки нам більше не потрібно буде бути прив'язаними до певного місця. Якщо коротко, 5G та інші сучасні високошвидкісні мережі забезпечують доступ до всіх інших технологічних тенденцій, які ми обговорювали, будь-де й будь-коли. Складні застосунки машинного навчання, яким потрібен доступ до джерел великих даних у режимі реального часу, можна автоматизувати та використовувати безпосередньо на місці.
 
 ### Passage C - Edge Computing
+
+![Illustration for Edge Computing](images/passage-c.png)
 
 <audio controls="" src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-c__edge-computing.mp3">
 </audio>
@@ -50,6 +50,8 @@ Edge computing означає, що частина обробки даних в�
 
 ### Passage D - Internet Of Behaviors
 
+![Illustration for Internet Of Behaviors](images/passage-d.png)
+
 <audio controls="" src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-d__internet-of-behaviors.mp3">
 </audio>
 
@@ -59,7 +61,10 @@ If you've heard of the Internet of Things (IoT), you should know that the IoT ex
 
 ### Passage E - Quantum Computing
 
-<audio controls src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-e__quantum-computing.mp3"></audio>
+![Illustration for Quantum Computing](images/passage-e.png)
+
+<audio controls="" src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-e__quantum-computing.mp3">
+</audio>
 
 It is a form of computing that uses the power of quantum phenomena such as superposition and quantum entanglement, is the next noteworthy technology trend. Because of its capability to instantly question, track, interpret, and act on data, regardless of source, this incredible technology trend also includes preventing the spread of the coronavirus and developing potential vaccines. Quantum computing is now being used in banking and finance to monitor credit risk, perform high-frequency trading, and detect fraud. Quantum computers are now several times faster than traditional computers, including those from well-known companies.
 
@@ -67,12 +72,33 @@ It is a form of computing that uses the power of quantum phenomena such as super
 
 ### Passage F - Blockchain
 
-Paste passage F here.
+![Illustration for Blockchain](images/passage-f.png)
+
+<audio controls="" src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-f__blockchain.mp3">
+</audio>
+
+It is another recent mainstream technology trend. Many people believe that Blockchain is just about Cryptocurrency, which is not the case. Bitcoin and other Cryptocurrencies are just a part of Blockchain technology as a whole. Apart from Cryptocurrencies, it uses various other fields such as healthcare, supply chain and logistics, advertising, etc. It's a decentralized digital ledger that keeps track of any transaction through a global network of computers. Various businesses are searching for Blockchain platforms to build top-level business strategies, driving up the market for blockchain technology. Blockchain's amount of protection and transparency is the primary explanation for its tremendous rise in popularity.
+
+Це ще одна сучасна технологічна тенденція, що стала популярною. Багато хто вважає, що блокчейн - це лише криптовалюти, але це не так. Біткоїн та інші криптовалюти - лише частина блокчейн-технології загалом. Окрім криптовалют, блокчейн застосовують у різних сферах, зокрема в охороні здоров'я, управлінні ланцюгами постачання й логістиці, рекламі тощо. Це децентралізований цифровий реєстр, який відстежує кожну транзакцію через глобальну мережу комп'ютерів. Різні компанії шукають блокчейн-платформи для розробки передових бізнес-стратегій, що сприяє зростанню ринку блокчейн-технологій. Головними причинами стрімкого зростання популярності блокчейну є високий рівень захисту та прозорості.
 
 ### Passage G - Cybersecurity
 
-Paste passage G here.
+![Illustration for Cybersecurity](images/passage-g.png)
+
+<audio controls="" src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-g__cybersecurity.mp3">
+</audio>
+
+It does not seem to be cutting-edge technology, but it progresses at the same rate as other technologies. This is partly due to the constant emergence of new threats. Malicious hackers attempting to gain unauthorized access to data would not give up quickly, and they will continue to find ways to avoid even the most stringent protection measures. It's partly due to the adoption of modern technologies to improve defense. Since Cybersecurity will extend to guard against hackers as long as we have them, Cybersecurity will remain a popular technology.
+
+Вона може й не здаватися передовою технологією, проте розвивається такими ж темпами, як і інші технології. Частково це пов'язано з постійною появою нових загроз. Зловмисні хакери, які намагаються отримати несанкціонований доступ до даних, не відступають одразу й продовжують шукати способи обійти навіть найсуворіші заходи захисту. Інша причина -- впровадження сучасних технологій для посилення захисту. Оскільки кібербезпека й надалі розвиватиметься, щоб захищати нас від хакерів, поки вони існують, вона залишатиметься популярною технологічною сферою.
 
 ### Passage H - Human Augmentation
 
-Paste passage H here.
+![Illustration for Human Augmentation](images/passage-h.png)
+
+<audio controls="" src="../11_Audio_Listening/05_Passage_Audio/latest-technology-trends__passage-h__human-augmentation.mp3">
+</audio>
+
+There is a broad term that encompasses innovations that seek to improve human abilities and productivity. Physical augmentation, such as prosthetics, AR lenses, and RFID tags infused inside humans, are all part of the field of human augmentation. This can aid in the enhancement of human cognition, perception, and action abilities. This is accomplished by sensing and actuation technology, information fusion and fission, and artificial intelligence.
+
+Це широке поняття, що охоплює інновації, покликані покращити людські здібності та продуктивність. Фізичне вдосконалення, як-от протези, лінзи доповненої реальності та RFID-мітки, імплантовані в тіло людини, належать до сфери людського вдосконалення. Такі технології можуть покращувати когнітивні здібності, сприйняття та здатність діяти. Це досягається за допомогою технологій сенсорики й активації, об'єднання та розділення інформації, а також штучного інтелекту.
